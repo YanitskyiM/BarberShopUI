@@ -1,0 +1,15 @@
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\bin\Debug\DiplomaWork.exe.config
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\bin\Debug\DiplomaWork.exe
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\bin\Debug\DiplomaWork.pdb
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.Form1.resources
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.Properties.Resources.resources
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.csproj.GenerateResource.cache
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.csproj.CoreCompileInputs.cache
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.exe
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.pdb
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.MenPage.resources
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.WomenPage.resources
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.csprojAssemblyReference.cache
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\bin\Debug\Database1.mdf
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\bin\Debug\Database1_log.ldf
+C:\Users\Mushko\source\repos\DiplomaWork\DiplomaWork\obj\Debug\DiplomaWork.Discount.resources
